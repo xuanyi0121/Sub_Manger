@@ -26,4 +26,13 @@ python3 main.py
 
 建议使用screen、systemd、PM2等工具将Bot挂在后台运行。
 
+安装依赖
+
+pip3 uninstall telebot
+pip3 uninstall PyTelegramBotAPI
+pip3 install pyTelegramBotAPI
+pip3 install --upgrade pyTelegramBotAPI
+
+pip install pyTelegramBotAPI
+
 作者是https://github.com/hero81/Sub_Manger
